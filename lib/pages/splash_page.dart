@@ -1,4 +1,5 @@
 import "package:flutter/material.dart";
+import 'package:learn_from_bwa/pages/home_page.dart';
 import 'package:learn_from_bwa/theme.dart';
 
 class SplashPage extends StatelessWidget {
@@ -37,7 +38,14 @@ class SplashPage extends StatelessWidget {
                     width: 210,
                     height: 50,
                     child: RaisedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(
+                          context, 
+                          MaterialPageRoute(
+                            builder: (context) => HomePage()
+                          )
+                        );
+                      },
                       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(17),),
                       color: purpleColor,
                       child: Text('Explore Now', style: whiteTextStyle.copyWith(fontSize: 18)),
