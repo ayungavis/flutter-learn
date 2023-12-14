@@ -1,7 +1,7 @@
 repo_name: ayungavis/flutter-learn
-report_id: 5c2357496a7dbde636125c20fb6ae13f
+report_id: cc87dbc0d61edfe3d57878dff20eea4c
 repo_type: Public
-timestamp: '2023-11-24T02:06:31+00:00'
+timestamp: '2023-12-14T13:20:59+00:00'
 requested_by: ayungavis
 provider: github
 branch: main
@@ -68,7 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -125,7 +125,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -147,7 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -160,7 +160,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -173,7 +173,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-08-10 23:26:23.000000000 Z
@@ -186,7 +186,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-08-11 08:24:17.000000000 Z
@@ -200,7 +200,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-08-11 08:24:17.000000000 Z
@@ -213,7 +213,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-08-11 05:30:47.000000000 Z
