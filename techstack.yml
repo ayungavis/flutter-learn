@@ -1,7 +1,8 @@
 repo_name: ayungavis/flutter-learn
-report_id: cc87dbc0d61edfe3d57878dff20eea4c
+report_id: 5c2357496a7dbde636125c20fb6ae13f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:20:59+00:00'
+timestamp: '2024-01-05T08:34:08+00:00'
 requested_by: ayungavis
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -81,6 +87,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -92,6 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -102,6 +110,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -113,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -135,6 +145,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/web/index.html
   detection_source: web/index.html
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
@@ -225,6 +236,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/flutter-learn/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: ayungavis
   last_updated_on: 2021-07-24 22:01:58.000000000 Z
